@@ -2,7 +2,7 @@
 
 Basic Test project for https://github.com/aspnet/Docs/issues/6784
 
-just created an  ASP.NET MVC Core2.1 web site, and followed https://github.com/aspnet/Docs/issues/6784
+just created an  ASP.NET MVC Core2.1 web site, and followed https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-primary-key-configuration?view=aspnetcore-2.1&tabs=aspnetcore2x
 
 Recreated the initial Migration.
 
